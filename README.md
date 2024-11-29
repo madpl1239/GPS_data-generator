@@ -3,6 +3,6 @@ very simple latitude and longitude data generator. Simulating the operation of G
 <br>
 
 compilation: g++ -o gpsData main.cpp -Os -march=native -std=c++23 (or c++11 too)
-<br><br>
+<br>
 
 run: type gpsData
