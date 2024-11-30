@@ -1,6 +1,8 @@
 /*
  * main.cpp
  * 
+ * GPS latitude, longitude generator.
+ *
  * 29-11-2024 by madpl
  */
 #include <iostream>
